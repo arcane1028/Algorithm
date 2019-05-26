@@ -1,4 +1,4 @@
-package baekjoonoj.sw_test.basic.dynamic.problem_15988;
+package baekjoonoj.sw_test.basic.dp.problem_15988;
 
 import java.io.*;
 
